@@ -4,4 +4,4 @@
     - `docker compose up -d`
 - get jenkins key
     - `docker logs jenkins-blueocean`
-- go to http://localhost:18080/
+- go to http://localhost:8080/
